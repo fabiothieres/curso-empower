@@ -5,7 +5,7 @@
 
 Este é o projeto de uma landing page responsiva para a **ReciclaTech**, uma plataforma fictícia com foco em sustentabilidade, conectando doadores de eletrônicos usados com pessoas que precisam deles.
 
-**[Ver o site ao vivo](https://link-do-seu-deploy.com)** <em>(Substitua este link pelo link do seu site no GitHub Pages ou Netlify)</em>
+**[Ver o site ao vivo](https://reciclatech-rouge.vercel.app/)**
 
 ---
 
