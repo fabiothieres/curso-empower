@@ -27,12 +27,6 @@ Após quatro pomodoros, é feita uma pausa maior para descanso.
 
 ---
 
-## 💻 Como visualizar o projeto
-1. Faça o download dos arquivos ou clone o repositório:  
-   ```bash
-   git clone https://github.com/SEU_USUARIO/pomodoro-web.git
-Abra o arquivo index.html no seu navegador.
-
 📸 Prévia do projeto
 <img width="1902" height="1029" alt="image" src="https://github.com/user-attachments/assets/03949269-c7c3-4aa4-a2f0-549f1d953e76" />
 
@@ -49,6 +43,5 @@ Noções de hierarquia visual e contraste
 Responsividade e boas práticas de design
 
 🧑‍💻 Desenvolvido por Fabio Thieres
-Copiar código
 
 ---
