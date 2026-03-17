@@ -28,7 +28,8 @@ Após quatro pomodoros, é feita uma pausa maior para descanso.
 ---
 
 📸 Prévia do projeto
-<img width="958" height="504" alt="{97DF3FB4-05DA-4618-8531-096A0E3AF64F}" src="https://github.com/user-attachments/assets/18862990-9a22-41d9-81bb-ac638ed603b8" />
+<img width="959" height="504" alt="{12F60051-1BCF-4185-8963-1913D0E6060F}" src="https://github.com/user-attachments/assets/6a454a21-f482-4ff5-b157-c75c22c14046" />
+
 
 
 
